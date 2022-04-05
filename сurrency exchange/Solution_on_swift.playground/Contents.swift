@@ -1,3 +1,5 @@
+// !!! Solution can be wrong !!!
+//
 // Approach
 //  We will build chains - a chain for each currency (except the main). Step by step:
 //  1. Each chain (for currency #i) looks like: X_1 -> X_i
